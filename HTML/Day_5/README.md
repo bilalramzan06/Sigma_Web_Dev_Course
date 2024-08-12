@@ -10,4 +10,4 @@
 * paragraphs
 * hr rule
 * "<address>"
-* "article>"
+* "<article>"
