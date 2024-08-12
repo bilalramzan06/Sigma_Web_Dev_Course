@@ -1,4 +1,4 @@
-Common Inline Elements
+#Common Inline Elements
 * <span>: A generic inline container for text
 * <a>: Defines a hyperlink
 * <strong>: Defines important text
