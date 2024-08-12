@@ -1,4 +1,4 @@
-#Common Inline Elements
+# Common Inline Elements
 * <span>: A generic inline container for text
 * <a>: Defines a hyperlink
 * <strong>: Defines important text
@@ -6,7 +6,7 @@
 * <img>: Embeds an image
 * <input>: Defines an input control
 
-#Common Block-level Elements:
+# Common Block-level Elements:
 * <h1>,<h2>,<h3>,<h4>,<h5>,<h6> - Headings
 * <p> - Paragraphs
 * <hr> - Horizontal rule
