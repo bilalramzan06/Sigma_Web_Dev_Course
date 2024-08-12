@@ -6,7 +6,6 @@ Common Inline Elements
 * <img>: Embeds an image
 * <input>: Defines an input control
 
-
 #Common Block-level Elements:
 * <h1>,<h2>,<h3>,<h4>,<h5>,<h6> - Headings
 * <p> - Paragraphs
