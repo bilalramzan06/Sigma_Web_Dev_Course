@@ -9,5 +9,5 @@
 * Headings
 * paragraphs
 * hr rule
-* "<address>"
-* "<article>"
+* (<address>)
+* (<article>)
