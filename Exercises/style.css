@@ -47,6 +47,10 @@ body{
     color: white;
     font-weight: bold;
 }
+.menu ul li a:hover{
+    color: black;
+    font-weight: bold;
+}
 .download-button a{
     background-color: rgb(255, 255, 255);
     text-decoration: none;
@@ -57,7 +61,7 @@ body{
 }
 .download-button a:hover{
 background-color: red;
-transition: background-color 10s ease;
+transition: background-color 0.3s ease;
 }
 .download-button a i{
     padding-left: 10px;
