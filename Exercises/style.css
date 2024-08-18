@@ -47,9 +47,15 @@ body{
     color: white;
     font-weight: bold;
 }
+.menu ul li a::before{
+
+    background-color: brown;
+}
 .menu ul li a:hover{
-    color: black;
-    font-weight: bold;
+    color: rgb(224, 19, 19);
+    border-bottom: solid white 3px;
+    transition: border 0.5s ease;
+
 }
 .download-button a{
     background-color: rgb(255, 255, 255);
