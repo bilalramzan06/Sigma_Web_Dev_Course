@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: blue;
+    background-color: rgb(17, 17, 92);
     color: white;
     padding: 20px 100px;
 }
@@ -48,9 +48,17 @@ body{
     font-weight: bold;
 }
 .download-button a{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 13px 23px;
     border-radius: 8px;
+    font-weight: bold;
+}
+.download-button a:hover{
+background-color: red;
+transition: background-color 10s ease;
+}
+.download-button a i{
+    padding-left: 10px;
 }
