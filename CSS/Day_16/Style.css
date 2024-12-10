@@ -1,0 +1,15 @@
+/* p {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: overline;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+.para{
+
+    line-height: 50px;
+    color: red;
+    text-indent: 100px
+}
