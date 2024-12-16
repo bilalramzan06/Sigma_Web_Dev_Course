@@ -1,2 +1,2 @@
-document.querySelector(#butt);
-alert("Hello janab");
+alert('hello world');
+// document.querySelector('#butt').click();
