@@ -8,8 +8,12 @@
 </head>
 <body>
     <main>
-        <button class="bag" onclick="alert('Item has been added')">ADD TO BAG</button>
-        <button class="wish" onclick="alert('Wish list updated')">Move to Wishlist</button>
+        <button class="bag" 
+        onclick= "cart = cart + 1; 
+        document.querySelector('#cart-summary').innerText = ' your cart has ' + cart + ' items';" >ADD TO BAG</button>
+        <button class="wish" onclick= "cart = cart - 1; 
+        document.querySelector('#cart-summary').innerText = ' your cart has ' + cart + ' items';
+        ">Move to Wishlist</button>
         <button class="bag" onclick="alert('Item has been added')">ADD 1+1 SALE ITEM</button>
         <H1 id="cart-summary"></H1>
         <br>
