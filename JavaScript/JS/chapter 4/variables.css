@@ -1,0 +1,31 @@
+
+        .b1{
+            color: white;
+            background-color: pink;
+        }
+        #b2{
+            color: pink;
+            background-color: black;
+        }
+        .bag{
+            border-radius: 10px;
+            border: none;
+            padding: 15px;
+            background-color: aquamarine;
+
+        }
+        .wish{
+            border-radius: 10px;
+            border: black solid 2px;
+          
+            background-color: none;
+            padding-left: 25px;
+            padding-right: 25px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            border-radius: 10px;
+            font-size: 20px;
+
+
+        }
+   
